@@ -23,6 +23,7 @@ article {
 .city-name {
     display: none;
     background-color: rgba(0, 0, 0, .6);
+    backdrop-filter: blur(.025em);
     font-family: 'Permanent Marker', cursive;
     font-size: 4em;
     width: 100%;
